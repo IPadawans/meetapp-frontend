@@ -81,3 +81,17 @@ export const Meetup = styled.button`
     }
   }
 `;
+
+export const EmptyContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+
+  span {
+    margin-top: 20px;
+    color: #fff;
+    font-size: 25px;
+  }
+`;

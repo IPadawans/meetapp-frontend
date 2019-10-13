@@ -71,7 +71,7 @@ export const Meetup = styled.button`
     align-self: center;
 
     > span {
-      color: #999;
+      color: #eee;
       font-size: 14px;
       margin-right: 20px;
     }

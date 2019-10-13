@@ -33,7 +33,7 @@ export const Content = styled.div`
     align-items: center;
 
     button {
-      background: #009900;
+      background: #4169e1;
       border: 0;
       margin: 0;
       border-radius: 4px;

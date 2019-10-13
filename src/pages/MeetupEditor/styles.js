@@ -34,7 +34,7 @@ export const Container = styled.div`
     }
     input[type='datetime-local']:before {
       content: attr(placeholder) !important;
-      color: #999;
+      color: #000;
       margin-right: 0.5em;
     }
 
